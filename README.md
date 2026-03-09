@@ -11,3 +11,7 @@ then put some songs in the songs folder (song folder must be located outside the
 enjoy..
 
 Want to know something? Email : Iamsherazali01@gmail.com
+
+
+Note: Yes I got alot of help from a youtube video to create that. the content is almost same but I wrote it myself to make good understanding of JS project
+
